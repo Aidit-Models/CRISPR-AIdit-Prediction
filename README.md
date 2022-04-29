@@ -1,4 +1,4 @@
-# Prediction of cell-type-specific activities of SpCas9/gRNA by machine learning
+# AIdit_CRISPR/Cas Prediction
 
 ### 1. System Requirements 
 **The code were tested on Windows, Linux and Mac OS systems.**
